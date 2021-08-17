@@ -1,3 +1,1 @@
-## Vercel
-
-https://google-app-artxd.vercel.app
+# react-next-google
