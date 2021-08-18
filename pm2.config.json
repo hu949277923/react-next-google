@@ -1,0 +1,9 @@
+{
+  "apps": [
+    {
+      "name": "ReactNextGoogle",
+      "script": "npm",
+      "args": "start"
+    }
+  ]
+}
